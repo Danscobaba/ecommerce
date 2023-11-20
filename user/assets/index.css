@@ -1,0 +1,52 @@
+div.header{
+    display: flex;
+    background:rgb(185, 231, 187);
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.header ul{
+    display:flex;
+    align-items: center;
+   
+    
+}
+
+.header ul li{
+list-style:none;
+margin: 0px 20px;
+}
+
+ul li a{
+    text-decoration: none;
+}
+
+
+.custom-card .text-muted{
+    color: whitesmoke !important;
+    /* overflow: hidden;
+    text-overflow: ellipsis;
+    width: 40px; */
+}
+
+.custom-card.first{
+    background: red;
+    color: white;
+    
+}
+.custom-card.second{
+    background:  rgb(55, 8, 172);
+    color: white;
+    
+}
+.custom-card.third{
+    background: rgb(155, 8, 133);
+    color: white;
+
+}
+.custom-card.fourth{
+    background:  rgb(11, 1, 1);
+    color: white;
+
+}
