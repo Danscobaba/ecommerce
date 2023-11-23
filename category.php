@@ -47,6 +47,7 @@ if(!isset($_GET['id']) || empty($_GET['id'])){
         </nav>
         <div class="filter d-flex justify-content-between">
             <div class="">
+            <h2>?How are u</h2>
                 <label>Sort by:</label>
                 <select name="" id="">
                     <option value="">asc</option>
